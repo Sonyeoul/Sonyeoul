@@ -4,3 +4,5 @@
 - 📫 How to reach me **thswjd6@gmail.com**
 
 <h1>My Tech stack</h1>
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red?style=for-the-badge">
+
