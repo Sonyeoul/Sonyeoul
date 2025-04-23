@@ -5,4 +5,5 @@
 
 <h1>My Tech stack</h1>
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red?style=for-the-badge">
-
+## 📊 GitHub Stats  
+![JungWoochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammer8130&show_icons=true&theme=radical)
