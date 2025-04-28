@@ -4,13 +4,11 @@
 Spring Boot, React, RDBMS를 활용한 서비스 개발과 AWS 기반 인프라 구축 경험이 있습니다.  
 LLM 경량화 및 파인튜닝을 통해 AI와 백엔드를 연결하는 새로운 도전에도 열정을 가지고 있습니다.
 
----
 
 # Contact
 
 - Email: thswd6@gmail.com
 
----
 
 # Tech Stack
 
@@ -20,7 +18,6 @@ LLM 경량화 및 파인튜닝을 통해 AI와 백엔드를 연결하는 새로�
 - **DevOps** : AWS, Docker, GitHub Actions
 - **Tools** : Git, GitHub, Discord Bot
 
----
 
 # Projects
 
