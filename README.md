@@ -1,14 +1,11 @@
-# About Me
-.
-
-
+# 백엔드 엔지니어
 
 # Contact
 
 - Email: thswd6@gmail.com
 
 
-# Tech Stack
+# Stack
 
 - **Backend** : Spring Boot, FastAPI
 - **Frontend** : React
